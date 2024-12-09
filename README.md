@@ -16,3 +16,6 @@ Scotia Turismo es una plataforma web diseñada para una agencia de marketing dig
 - **Frontend:** React, Tailwind CSS, Next.js
 - **Backend:** Node.js, Express.js
 - **Base de datos:** MongoDB
+
+## 🌟 Capturas
+![Captura 1](/hero.PNG)
